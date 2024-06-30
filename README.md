@@ -47,7 +47,7 @@ This project uses the following commands to interact with the application:
 | Command          | Description                                       |
 |------------------|---------------------------------------------------|
 | `create quiz`    | Creates a new quiz with a specified topic.        |
-| `add question`   | Adds a new question to an existing quiz.          |
+| `add questions`   | Adds a new question to an existing quiz.          |
 | `take quiz`      | Takes an existing quiz and displays the results.  |
 | `exit`           | Exits the application.                            |
 
